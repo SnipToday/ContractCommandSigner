@@ -1,0 +1,18 @@
+{
+  "name": "my_contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethereumjs-abi": "^0.6.4",
+    "ethereumjs-tx": "^1.3.3",
+    "express": "^4.16.1",
+    "request": "^2.83.0",
+    "web3": "^1.0.0-beta.22"
+  }
+}
